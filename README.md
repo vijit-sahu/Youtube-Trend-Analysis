@@ -6,7 +6,7 @@ In this Project, I have broken down the whole project into 10 questions for easy
 
 2.. Perform Sentiment Analysis
 
-3.. Wordcloud Analysis of your data
+3.. Wordcloud Analysis of data
 
 4.. Perform Emoji's Analysis
 
